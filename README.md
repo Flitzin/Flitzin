@@ -1,8 +1,8 @@
 # 👋 Bem-vindo ao meu espaço no GitHub
 
-Este é o começo de um novo capítulo pra mim.  
-Aqui é onde vou registrar minha evolução como desenvolvedor — desde meus primeiros passos até projetos mais complexos.  
-Nada aqui está perfeito, mas tudo aqui é **real** e faz parte do meu crescimento.
+Este é o começo de um novo capítulo pra mim.
+Sou o Guilherme, tenho 19 anos, e aqui vou registrar minha evolução como desenvolvedor — desde meus primeiros passos até projetos mais complexos.
+Nada aqui está perfeito, mas tudo aqui é real e faz parte do meu crescimento.
 
 ---
 
@@ -30,7 +30,7 @@ Nada aqui está perfeito, mas tudo aqui é **real** e faz parte do meu crescimen
 
 ## 📂 Projetos
 
-🔗 **My First Project:** [Projeto Extensao Facul](https://github.com/Flitzin/First-PEX)
+🐟 **My First Project:** [Projeto Extensao Facul](https://github.com/Flitzin/First-PEX)
 
 > Cada projeto aqui representa uma pequena vitória.
 
