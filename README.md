@@ -5,11 +5,10 @@ Nada aqui está perfeito, mas tudo aqui é real e faz parte do meu crescimento.
 
 ---
 
-## 👤 About Me
+## 👤 Sobre Mim
 - Estudante de **Análise e Desenvolvimento de Sistemas**
 - Estudando **Inglês** e cursando **Frontend**
-- Focado em me tornar um **Futuro Engenheiro de Software**
-- 
+- Focado em me tornar um **Futuro Engenheiro de Software** 
 ---
 
 ## 🧩 Tecnologias que estudo atualmente  
