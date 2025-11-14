@@ -9,37 +9,39 @@ Nada aqui está perfeito, mas tudo aqui é **real** e faz parte do meu crescimen
 ## 👤 About Me
 - Estudante de **Análise e Desenvolvimento de Sistemas**
 - Estudando **Inglês** e cursando **Frontend**
-- Focado em me tornar um **futuro Engenheiro de Software**
-- Apaixonado por tecnologia, evolução contínua e construção de projetos reais
+- Focado em me tornar um **Futuro Engenheiro de Software**
+- 
+---
+
+## 🧩 Tecnologias que estudo atualmente  
+<p align="left">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" />
+
+</p>
 
 ---
 
-## 🧩 Tecnologias que estudo atualmente
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **TypeScript**
-- **React**
-- **Tailwind CSS**
-- **Next.js**
+## 📂 Projetos
+
+<a href="https://github.com/Flitzin/First-PEX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Flitzin&repo=First-PEX&theme=dark" />
+</a>
 
 > Cada projeto aqui representa uma pequena vitória.
 
 ---
 
-## 📂 Projetos
-Vou adicionar meus primeiros projetos aos poucos.  
-Por enquanto, este repositório é meu marco inicial — um ponto zero pra olhar pra trás depois e ver o quanto evoluí.
+## 📫 Contato  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55 41 99829-9933)
 
----
-
-## 🎯 Objetivo
-Me tornar um desenvolvedor capaz de criar projetos bonitos, funcionais e úteis — e construir uma carreira sólida na área.
-
----
-
-## 📫 Contato
-Em breve deixarei aqui formas de contato e redes.
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilhermecmani@hotmail.com)
 
 ---
 
