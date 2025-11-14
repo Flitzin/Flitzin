@@ -1,6 +1,5 @@
 # 👋 Bem-vindo ao meu espaço no GitHub
 
-Este é o começo de um novo capítulo pra mim.
 Sou o Guilherme, tenho 19 anos, e aqui vou registrar minha evolução como desenvolvedor — desde meus primeiros passos até projetos mais complexos.
 Nada aqui está perfeito, mas tudo aqui é real e faz parte do meu crescimento.
 
@@ -36,7 +35,7 @@ Nada aqui está perfeito, mas tudo aqui é real e faz parte do meu crescimento.
 
 ---
 
-## 📫 Contato  
+## 📫 Contatos
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+554199829-9933)
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilhermecmani@hotmail.com)
