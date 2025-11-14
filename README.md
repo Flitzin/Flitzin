@@ -30,7 +30,7 @@ Nada aqui está perfeito, mas tudo aqui é **real** e faz parte do meu crescimen
 
 ## 📂 Projetos
 
-🔗 **Repositório:** [Clique aqui](https://github.com/Flitzin/First-PEX)
+🔗 **My First Project:** [Projeto Extensao Facul](https://github.com/Flitzin/First-PEX)
 
 > Cada projeto aqui representa uma pequena vitória.
 
