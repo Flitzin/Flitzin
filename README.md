@@ -30,16 +30,14 @@ Nada aqui está perfeito, mas tudo aqui é **real** e faz parte do meu crescimen
 
 ## 📂 Projetos
 
-<a href="https://github.com/Flitzin/First-PEX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Flitzin&repo=First-PEX&theme=dark" />
-</a>
+🔗 **Repositório:** [Clique aqui](https://github.com/Flitzin/First-PEX)
 
 > Cada projeto aqui representa uma pequena vitória.
 
 ---
 
 ## 📫 Contato  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+55 41 99829-9933)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+554199829-9933)
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilhermecmani@hotmail.com)
 
