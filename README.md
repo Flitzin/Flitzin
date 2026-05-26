@@ -1,44 +1,57 @@
-# 👋 Bem-vindo ao meu espaço no GitHub
+# 👋 Bem-vindo ao meu GitHub
 
-Sou o Guilherme, tenho 19 anos, e aqui vou registrar minha evolução como desenvolvedor — desde meus primeiros passos até projetos mais complexos.
-Nada aqui está perfeito, mas tudo aqui é real e faz parte do meu crescimento.
+Sou o Guilherme, tenho 20 anos, estudante de **Análise e Desenvolvimento de Sistemas**.  
+Utilizo este espaço para registrar minha evolução como desenvolvedor, com foco em **backend Java** e desenvolvimento de **APIs REST**.
+
+Aqui você encontrará projetos reais, em constante evolução, aplicando conceitos estudados na prática.
 
 ---
 
 ## 👤 Sobre Mim
 - Estudante de **Análise e Desenvolvimento de Sistemas**
-- Estudando **Inglês** e cursando **Frontend**
-- Focado em me tornar um **Futuro Engenheiro de Software** 
+- Desenvolvedor **Backend Java** em formação
+- Experiência com **Spring Boot** e **APIs REST**
+- Conhecimentos em **Front-end** para consumo de APIs
+- Inglês intermediário (leitura técnica e conversação)
+
 ---
 
-## 🧩 Tecnologias que estudo atualmente  
-<p align="left">
+## 🧩 Tecnologias
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" />
+### Backend
+- Java  
+- Spring Boot  
+- APIs REST  
+- CRUD  
+- DTOs  
+- ResponseEntity  
+- Tratamento de exceções (em andamento)  
+- Git / GitHub  
 
-</p>
+### Front-end
+- HTML  
+- CSS  
+- JavaScript  
+- TypeScript  
+- React  
+- Next.js  
 
 ---
 
 ## 📂 Projetos
 
-🐟 **Meu Primeiro Projeto:** [Projeto Extensao da Faculdade](https://github.com/Flitzin/First-PEX)
+🔹 **Projeto de Extensão Acadêmica – Front-end**  
+https://github.com/Flitzin/First-PEX  
 
-> Cada projeto aqui representa uma pequena vitória.
-
----
-
-## 📫 Contatos
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+554199829-9933)
-
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guilhermecmani@hotmail.com)
+🔹 **API REST – CRUD de Produtos (Java + Spring Boot)**  
+*(Em desenvolvimento)*  
 
 ---
 
-📌 *“Todo mestre um dia foi aprendiz. Cada commit conta.”*
+## 📫 Contato
+WhatsApp: +55 41 99829-9933  
+Email: guilhermecmani@hotmail.com  
+
+---
+
+📌 *Cada projeto representa aprendizado prático e evolução contínua como desenvolvedor.*
